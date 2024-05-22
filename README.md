@@ -8,18 +8,15 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-## 🏆 GitHub Stats
+<!-- Languages Used -->
+## 💻 Languages Used
 
-<!-- Updated GitHub Stats Layout -->
+<!-- Updated Languages Used Layout -->
 <div align="center">
   <a href="https://github.com/cfilipecruz">
-    <img src="https://github-readme-stats.vercel.app/api?username=cfilipecruz&show_icons=true&theme=algolia&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=algolia&hide_border=true"/>
   </a>
 </div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
 
 
 ## 🚀 About Me
