@@ -64,7 +64,6 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 
 - 🛠️ I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course.
 - 🐛 My team and I once created a cricket energy bar. Yes, the kind with actual crickets.
-- 🎨 When I'm not coding, you might find me exploring new graphic design techniques or dabbling in 3D modeling.
 
 ## 🎮 Hobbies
 
@@ -86,11 +85,6 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cfilipecruz&repo=another-project&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
-
-## 🌱 More About Me
-
-- 💬 Ask me about **JSON, P5.js, Ionic, Java, Linux, Kotlin, UML, Node.js, Python, 3D Animation, 3D Modeling, Assembly, PostGIS, Yii**
-- 🧠 Currently learning **Advanced Algorithms and AI**
 
 ## 💪 Soft Skills
 
