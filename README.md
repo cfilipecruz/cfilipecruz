@@ -12,35 +12,17 @@
 
 Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in Computer Graphics and Multimedia Engineering. I thrive on solving problems creatively and continuously seek opportunities for growth.
 
-## 💻 Languages & Technologies
+## 💻 What I Do
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"/>
-  <img src="https://img.shields.io/badge/C%2FC%23-00599C?style=flat-square&logo=csharp&logoColor=white" alt="C/C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/P5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" alt="P5.js"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/UML-007396?style=flat-square&logo=uml&logoColor=white" alt="UML"/>
-  <img src="https://img.shields.io/badge/3D_Animation-000000?style=flat-square&logo=three.js&logoColor=white" alt="3D Animation"/>
-  <img src="https://img.shields.io/badge/3D_Modeling-FCA121?style=flat-square&logo=blender&logoColor=white" alt="3D Modeling"/>
-  <img src="https://img.shields.io/badge/Assembly-0078D7?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly"/>
-  <img src="https://img.shields.io/badge/PostGIS-008bb9?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS"/>
-  <img src="https://img.shields.io/badge/Yii-2C3E50?style=flat-square&logo=yiiframework&logoColor=white" alt="Yii"/>
-</p>
+- **Front-End Development**: HTML5, CSS3, JavaScript, TypeScript, Angular, Ionic, Bootstrap
+- **Back-End Development**: PHP, Java, Node.js, .NET, Laravel, Yii
+- **Database Management**: MySQL, PostgreSQL, PostGIS
+- **Mobile Development**: Kotlin, Java (Android)
+- **Game Development**: Phaser.js, Unity, Unreal Engine
+- **Other Technologies**: Python, Linux, UML, JSON, P5.js, Assembly
+- **3D & Animation**: Blender, Maya, 3D Animation, 3D Modeling
 
-## 🛠️ Tools & Platforms
+## 🛠️ Tools I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/> 
@@ -93,12 +75,6 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
-
-<div align="center">
-  <a href="https://github.com/cfilipecruz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=algolia&hide_border=true&title_color=00A1FF"/>
-  </a>
-</div>
 
 ## 😂 Developer Jokes
 
