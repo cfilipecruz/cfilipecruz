@@ -8,13 +8,36 @@
   </a>
 </p>
 
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://discord.com/users/maneneco" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.facebook.com/FilipeCruz6832" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="http://www.instagram.com/filipe__cruz_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://myskillhub.pt" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00A1FF?style=flat-square&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.stackoverflow.com/users/16282563/filipe-cruz" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  </a>
+  <a href="https://www.youtube.com/@filipecruz8035" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
 ## 🚀 About Me
 
 Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in Computer Graphics and Multimedia Engineering. I thrive on solving problems creatively and continuously seek opportunities for growth.
 
 ## 💻 What I Do
 
-- **Front-End Development**: HTML5, CSS3, JavaScript, TypeScript, Angular, Ionic, Bootstrap
+- **Front-End Development**: HTML5, CSS3, JavaScript, Angular, Ionic, Bootstrap
 - **Back-End Development**: PHP, Java, Node.js, .NET, Laravel, Yii
 - **Database Management**: MySQL, PostgreSQL, PostGIS
 - **Mobile Development**: Kotlin, Java (Android)
@@ -53,28 +76,11 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://discord.com/users/maneneco" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+<div align="center">
+  <a href="https://github.com/cfilipecruz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=algolia&hide_border=true&title_color=00A1FF"/>
   </a>
-  <a href="https://www.facebook.com/FilipeCruz6832" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="http://www.instagram.com/filipe__cruz_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://myskillhub.pt" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00A1FF?style=flat-square&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.stackoverflow.com/users/16282563/filipe-cruz" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
-  </a>
-  <a href="https://www.youtube.com/@filipecruz8035" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
+</div>
 
 ## 😂 Developer Jokes
 
