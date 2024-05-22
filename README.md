@@ -3,7 +3,32 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00f2ea&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <canvas id="p5Canvas"></canvas>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+  <script>
+    function setup() {
+      let canvas = createCanvas(windowWidth, 300);
+      canvas.parent('p5Canvas');
+      frameRate(30);
+    }
+
+    function draw() {
+      background(13, 17, 23);
+      let time = millis() / 1000;
+      let numCubes = 20;
+      let size = 20;
+      for (let i = 0; i < numCubes; i++) {
+        let x = map(i, 0, numCubes, 0, width);
+        let y = height / 2 + sin(time + i * 0.5) * 50;
+        let alpha = map(i, 0, numCubes, 50, 255);
+        fill(2, 169, 247, alpha);
+        noStroke();
+        rect(x, y, size, size);
+        stroke(255);
+        line(x, y + size / 2, width / 2, height / 2);
+      }
+    }
+  </script>
 </div>
 
 ## 🚀 About Me
@@ -24,81 +49,25 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
-## 🛠️ Tools I Use
+## 🎮 Hobbies & Interests
 
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xampp](https://img.shields.io/badge/XAMPP-F37623.svg?style=for-the-badge&logo=xampp&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+- 🧪 Science & Technology
+- 🚀 Entrepreneurship
+- 📈 Investment
+- 💪 Gym
+- 🎮 Video Games & Sound
+- 🤝 Volunteer Work
+- 💻 Programming in various languages (JSON, p5.js, Ionic, Java, Linux, Kotlin, UML, Node.js, Python)
+- 🎨 3D Animation & Modeling
 
-## 🏆 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/curumim15">
-    <img src="https://github-readme-stats.vercel.app/api?username=cfilipecruz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/curumim15">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-## 😂 Developer Jokes
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif" width="300"/>
-</div>
-
-- Why do programmers prefer dark mode? Because light attracts bugs! 🐛
-- Why do Java developers wear glasses? Because they don’t see sharp. 👓
-- Debugging: Being the detective in a crime movie where you are also the murderer. 🔍
-
-## 🌟 Fun Facts
-
-- 🛠️ I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course.
-- 🐛 My team and I once created a cricket energy bar. Yes, the kind with actual crickets.
-- 🎨 When I'm not coding, you might find me exploring new graphic design techniques or dabbling in 3D modeling.
-
-## 🎮 Hobbies
-
-- Science and Technology
-- Entrepreneurship
-- Self Improvement
-- Gym
-- Investment
-- Video Games and Sound
-- Volunteer
-
-## 🦸‍♂️ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/curumim15/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cfilipecruz&repo=project-name&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/curumim15/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cfilipecruz&repo=another-project&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-## 🌱 More About Me
-
-- 💬 Ask me about **JSON, P5.js, Ionic, Java, Linux, Kotlin, UML, Node.js, Python, 3D Animation, 3D Modeling, Assembly, PostGIS, Yii**
-- 🧠 Currently learning **Advanced Algorithms and AI**
-
-## 💪 Soft Skills
+## 🤝 Soft Skills
 
 - Adaptability
-- Conflict resolution
+- Conflict Resolution
 - Creativity
-- Critical thinking
+- Critical Thinking
 - Curiosity
 - Empathy
 - Initiative
@@ -106,13 +75,13 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 - Open-mindedness
 - Positivity
 - Problem-solving
-- Project management
+- Project Management
 - Resilience
 - Teamwork
 - Transparency
 - Honesty
 
-## 🛠️ Tools & Platforms
+## 🛠 Tools
 
 - GitHub / Bitbucket
 - Adobe Tools
@@ -124,17 +93,22 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 - Visual Studio Code
 - Microsoft Tools
 - Android Studio
-- Unreal Engine/Unity
+- Unreal Engine / Unity
 - PostMan
 - PHP Storm
 - NetBeans
 - Report Designer
 - Confluence / Jira
 
-## 📊 Visitor Count
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{cfilipecruz}/count.svg" />
+  <br>
+  <p align="center">
+    <b>Visitors Count</b>
+  </p>
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{cfilipecruz}/count.svg" />
+  </p>
+  <br>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
