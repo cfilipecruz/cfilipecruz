@@ -1,8 +1,8 @@
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00f2ea&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=00f2ea&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!)](https://git.io/typing-svg)
 
 <!-- Introduction -->
 ## 🚀 About Me
@@ -57,4 +57,5 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 - 🤝 Volunteering is close to my heart.
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
+
