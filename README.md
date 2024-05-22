@@ -40,7 +40,7 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
   <img src="https://img.shields.io/badge/Yii-2C3E50?style=flat-square&logo=yiiframework&logoColor=white" alt="Yii"/>
 </p>
 
-## 🛠️ Tools I Use
+## 🛠️ Tools & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/> 
@@ -58,6 +58,17 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
   <img src="https://img.shields.io/badge/Phaser.js-8CC84B?style=flat-square&logo=phaser&logoColor=white" alt="Phaser.js"/> 
   <img src="https://img.shields.io/badge/PostGIS-008bb9?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS"/> 
   <img src="https://img.shields.io/badge/Yii-2C3E50?style=flat-square&logo=yiiframework&logoColor=white" alt="Yii"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe"/>
+  <img src="https://img.shields.io/badge/Maya-00C7B7?style=flat-square&logo=autodesk&logoColor=white" alt="Maya"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/PHP_Storm-000000?style=flat-square&logo=phpstorm&logoColor=white" alt="PHP Storm"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=netbeans&logoColor=white" alt="NetBeans"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 ## 🌐 Socials
@@ -132,25 +143,6 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 - Teamwork
 - Transparency
 - Honesty
-
-## 🛠️ Tools & Platforms
-
-- GitHub / Bitbucket
-- Adobe Tools
-- Xampp
-- Maya 3D / Blender
-- Trello
-- Raspberry Pi
-- Arduino
-- Visual Studio Code
-- Microsoft Tools
-- Android Studio
-- Unreal Engine/Unity
-- PostMan
-- PHP Storm
-- NetBeans
-- Report Designer
-- Confluence / Jira
 
 ## 📊 Visitor Count
 
