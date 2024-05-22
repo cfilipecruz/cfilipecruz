@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00f2ea&width=1000&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00f2ea&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
@@ -8,7 +8,10 @@
 
 ## 🚀 About Me
 
-Hello! I'm Filipe Cruz from Portugal, a passionate developer with a degree in Computer Graphics and Multimedia Engineering. I love crafting crazy solutions to complex problems and constantly seek opportunities for personal and professional growth.
+Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in Computer Graphics and Multimedia Engineering. I thrive on solving problems creatively and continuously seek opportunities for growth. Fun fact: I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course! 🏡
+
+- 🌐 **Website:** [myskillhub.pt](https://myskillhub.pt)
+- 💼 **LinkedIn:** [linkedin.com/in/cfilipecruz](https://www.linkedin.com/in/cfilipecruz)
 
 ## 💻 Technologies & Tools
 
@@ -22,6 +25,8 @@ Hello! I'm Filipe Cruz from Portugal, a passionate developer with a degree in Co
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🛠️ Tools I Use
 
@@ -30,15 +35,12 @@ Hello! I'm Filipe Cruz from Portugal, a passionate developer with a degree in Co
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xampp](https://img.shields.io/badge/XAMPP-F37623.svg?style=for-the-badge&logo=xampp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&logo=windows&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-## 😂 Developer Jokes
-
-- Why do programmers prefer dark mode? Because light attracts bugs! 🐛
-- Why do Java developers wear glasses? Because they don’t see sharp. 👓
-- Debugging: Being the detective in a crime movie where you are also the murderer. 🔍
-
-## 📈 GitHub Stats
+## 🏆 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/curumim15">
@@ -49,17 +51,85 @@ Hello! I'm Filipe Cruz from Portugal, a passionate developer with a degree in Co
   </a>
 </div>
 
-## 🏆 Trophies
+## 😂 Developer Jokes
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cfilipecruz&theme=darkhub&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif" width="300"/>
+</div>
+
+- Why do programmers prefer dark mode? Because light attracts bugs! 🐛
+- Why do Java developers wear glasses? Because they don’t see sharp. 👓
+- Debugging: Being the detective in a crime movie where you are also the murderer. 🔍
 
 ## 🌟 Fun Facts
 
 - 🛠️ I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course.
 - 🐛 My team and I once created a cricket energy bar. Yes, the kind with actual crickets.
 - 🎨 When I'm not coding, you might find me exploring new graphic design techniques or dabbling in 3D modeling.
+
+## 🎮 Hobbies
+
+- Science and Technology
+- Entrepreneurship
+- Self Improvement
+- Gym
+- Investment
+- Video Games and Sound
+- Volunteer
+
+## 🦸‍♂️ Featured Projects
+
+<div align="center">
+  <a href="https://github.com/curumim15/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cfilipecruz&repo=project-name&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/curumim15/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cfilipecruz&repo=another-project&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+## 🌱 More About Me
+
+- 💬 Ask me about **JSON, P5.js, Ionic, Java, Linux, Kotlin, UML, Node.js, Python, 3D Animation, 3D Modeling, Assembly, PostGIS, Yii**
+- 🧠 Currently learning **Advanced Algorithms and AI**
+
+## 💪 Soft Skills
+
+- Adaptability
+- Conflict resolution
+- Creativity
+- Critical thinking
+- Curiosity
+- Empathy
+- Initiative
+- Integrity
+- Open-mindedness
+- Positivity
+- Problem-solving
+- Project management
+- Resilience
+- Teamwork
+- Transparency
+- Honesty
+
+## 🛠️ Tools & Platforms
+
+- GitHub / Bitbucket
+- Adobe Tools
+- Xampp
+- Maya 3D / Blender
+- Trello
+- Raspberry Pi
+- Arduino
+- Visual Studio Code
+- Microsoft Tools
+- Android Studio
+- Unreal Engine/Unity
+- PostMan
+- PHP Storm
+- NetBeans
+- Report Designer
+- Confluence / Jira
 
 ## 📊 Visitor Count
 
