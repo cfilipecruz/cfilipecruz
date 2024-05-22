@@ -14,7 +14,7 @@
 <!-- Updated Languages Used Layout with Matching Text Color -->
 <div align="center">
   <a href="https://github.com/cfilipecruz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=algolia&hide_border=true&title_color=00f2ea"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=gradient&hide_border=true&title_color=00f2ea"/>
   </a>
 </div>
 
