@@ -8,26 +8,25 @@
   </a>
 </p>
 
-## 🌐 Socials
-
+<!-- Social Icons -->
 <p align="center">
   <a href="https://discord.com/users/maneneco" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord"/>
   </a>
   <a href="https://www.facebook.com/FilipeCruz6832" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" alt="Facebook"/>
   </a>
   <a href="http://www.instagram.com/filipe__cruz_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://myskillhub.pt" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00A1FF?style=flat-square&logo=About.me&logoColor=white" alt="Website"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website"/>
   </a>
   <a href="https://www.stackoverflow.com/users/16282563/filipe-cruz" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/stack-overflow.png" alt="StackOverflow"/>
   </a>
   <a href="https://www.youtube.com/@filipecruz8035" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube"/>
   </a>
 </p>
 
