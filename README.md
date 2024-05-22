@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in Computer Graphics and Multimedia Engineering. I thrive on solving problems creatively and continuously seek opportunities for growth. Fun fact: I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course! 🏡
+Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in Computer Graphics and Multimedia Engineering. I thrive on solving problems creatively and continuously seek opportunities for growth.
 
 ### Socials
 
@@ -48,8 +48,6 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-
-
 ## 😂 Developer Jokes
 
 <div align="center">
@@ -74,17 +72,6 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 - Investment
 - Video Games and Sound
 - Volunteer
-
-## 🦸‍♂️ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/curumim15/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cfilipecruz&repo=project-name&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/curumim15/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cfilipecruz&repo=another-project&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
 
 ## 💪 Soft Skills
 
