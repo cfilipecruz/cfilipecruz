@@ -2,8 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00f2ea&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!)](https://git.io/typing-svg)
 
+## 🏆 GitHub Stats
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <a href="https://github.com/curumim15">
+    <img src="https://github-readme-stats.vercel.app/api?username=cfilipecruz&show_icons=true&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/curumim15">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 ## 🚀 About Me
@@ -41,16 +48,7 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-## 🏆 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/curumim15">
-    <img src="https://github-readme-stats.vercel.app/api?username=cfilipecruz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/curumim15">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
 
 ## 😂 Developer Jokes
 
