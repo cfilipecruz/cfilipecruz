@@ -12,29 +12,29 @@
 ## 💻 Languages & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0078D7?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/CSS3-0078D7?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/JavaScript-0078D7?style=for-the-badge&logo=javascript&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/TypeScript-0078D7?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/PHP-0078D7?style=for-the-badge&logo=php&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Java-0078D7?style=for-the-badge&logo=java&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/MySQL-0078D7?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Node.js-0078D7?style=for-the-badge&logo=nodedotjs&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Python-0078D7?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Kotlin-0078D7?style=for-the-badge&logo=kotlin&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Angular-0078D7?style=for-the-badge&logo=angular&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Ionic-0078D7?style=for-the-badge&logo=ionic&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/C%2FC%23-0078D7?style=for-the-badge&logo=csharp&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/.NET-0078D7?style=for-the-badge&logo=dotnet&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/JSON-0078D7?style=for-the-badge&logo=json&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/P5.js-0078D7?style=for-the-badge&logo=p5dotjs&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Linux-0078D7?style=for-the-badge&logo=linux&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/UML-0078D7?style=for-the-badge&logo=uml&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/3D_Animation-0078D7?style=for-the-badge&logo=three.js&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/3D_Modeling-0078D7?style=for-the-badge&logo=blender&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Assembly-0078D7?style=for-the-badge&logo=assemblyscript&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/PostGIS-0078D7?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Yii-0078D7?style=for-the-badge&logo=yiiframework&logoColor=white" style="border-radius: 5px; margin: 2px;"/>
+  <img src="https://img.shields.io/badge/HTML5-0078D7?style=flat-square&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-0078D7?style=flat-square&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-0078D7?style=flat-square&logo=javascript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TypeScript-0078D7?style=flat-square&logo=typescript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PHP-0078D7?style=flat-square&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-0078D7?style=flat-square&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL-0078D7?style=flat-square&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Node.js-0078D7?style=flat-square&logo=nodedotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-0078D7?style=flat-square&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Kotlin-0078D7?style=flat-square&logo=kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Angular-0078D7?style=flat-square&logo=angular&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Ionic-0078D7?style=flat-square&logo=ionic&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C%2FC%23-0078D7?style=flat-square&logo=csharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/.NET-0078D7?style=flat-square&logo=dotnet&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JSON-0078D7?style=flat-square&logo=json&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/P5.js-0078D7?style=flat-square&logo=p5dotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Linux-0078D7?style=flat-square&logo=linux&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/UML-0078D7?style=flat-square&logo=uml&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/3D_Animation-0078D7?style=flat-square&logo=three.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/3D_Modeling-0078D7?style=flat-square&logo=blender&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Assembly-0078D7?style=flat-square&logo=assemblyscript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PostGIS-0078D7?style=flat-square&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Yii-0078D7?style=flat-square&logo=yiiframework&logoColor=white"/>
 </p>
 
 <div align="center">
@@ -51,43 +51,43 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 
 <p align="center">
   <a href="https://discord.com/users/maneneco" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 5px; margin: 2px;"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/FilipeCruz6832" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 5px; margin: 2px;"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
   <a href="http://www.instagram.com/filipe__cruz_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px; margin: 2px;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://myskillhub.pt" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00A1FF?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius: 5px; margin: 2px;"/>
+    <img src="https://img.shields.io/badge/Website-00A1FF?style=flat-square&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://www.stackoverflow.com/users/16282563/filipe-cruz" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" style="border-radius: 5px; margin: 2px;"/>
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@filipecruz8035" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 5px; margin: 2px;"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
 ## 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/XAMPP-F37623.svg?style=for-the-badge&logo=xampp&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Phaser.js-8CC84B?style=for-the-badge&logo=phaser&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/PostGIS-008bb9?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius: 5px; margin: 2px;"/> 
-  <img src="https://img.shields.io/badge/Yii-2C3E50?style=for-the-badge&logo=yiiframework&logoColor=white" style="border-radius: 5px; margin: 2px;"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/XAMPP-F37623.svg?style=flat-square&logo=xampp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Phaser.js-8CC84B?style=flat-square&logo=phaser&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PostGIS-008bb9?style=flat-square&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Yii-2C3E50?style=flat-square&logo=yiiframework&logoColor=white"/>
 </p>
 
 ## 😂 Developer Jokes
