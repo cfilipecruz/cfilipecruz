@@ -1,78 +1,70 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=02a9f7B&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02a9f7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;I'm+Filipe+Cruz+from+Portugal;Computer+Engineering+Graduate;Welcome+to+My+GitHub+Universe!+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00f2ea&width=1000&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!)](https://git.io/typing-svg)
 
-<div align="center"> 
-  <a href="https://github.com/curumim15/github-readme-stats">
-    <img width="49%" height="195px" align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=cfilipecruz&show_icons=true&count_private=true&hide_border=true&title_color=02a9f7&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
+
+## 🚀 About Me
+
+Hello! I'm Filipe Cruz from Portugal, a passionate developer with a degree in Computer Graphics and Multimedia Engineering. I love crafting crazy solutions to complex problems and constantly seek opportunities for personal and professional growth.
+
+## 💻 Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/ionic-%233878FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 🛠️ Tools I Use
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xampp](https://img.shields.io/badge/XAMPP-F37623.svg?style=for-the-badge&logo=xampp&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 😂 Developer Jokes
+
+- Why do programmers prefer dark mode? Because light attracts bugs! 🐛
+- Why do Java developers wear glasses? Because they don’t see sharp. 👓
+- Debugging: Being the detective in a crime movie where you are also the murderer. 🔍
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/curumim15">
+    <img src="https://github-readme-stats.vercel.app/api?username=cfilipecruz&show_icons=true&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/curumim15/convoychat">
-    <img width="41%" height="195px" align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=cfilipecruz&layout=compact&hide_border=true&langs_count=16&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <a href="https://github.com/curumim15">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
-##
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cfilipecruz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cfilipecruz&theme=darkhub&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
-##
+## 🌟 Fun Facts
 
-### 🚀 Main Skills
+- 🛠️ I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course.
+- 🐛 My team and I once created a cricket energy bar. Yes, the kind with actual crickets.
+- 🎨 When I'm not coding, you might find me exploring new graphic design techniques or dabbling in 3D modeling.
 
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=3880FF)&nbsp; 
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
-![P5.js](https://img.shields.io/badge/p5%20js-0D1117?style=for-the-badge&logo=p5dotjs&logoColor=ED225D)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp; 
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=777BB4)&nbsp;
-
-##
-
-### 🛠️ Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![PHPStorm](http://img.shields.io/badge/PHPStorm-0D1117?style=for-the-badge&logo=phpstorm&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Xampp](https://img.shields.io/badge/Xampp-0D1117?style=for-the-badge&logo=xampp&logoColor=F37623)&nbsp;
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows 11](https://img.shields.io/badge/Windows_11-0D1117?style=for-the-badge&logo=windows-11&logoColor=0078d4)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01)&nbsp;
-
-##
-
-### 🎨 Other Knowledge
-
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=0095D5)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socket.io&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Blender](https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender&logoColor=F5792A)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
-![After Effects](https://img.shields.io/badge/Adobe_After_Effects-0D1117?style=for-the-badge&logo=adobe-after-effects&logoColor=CF96FD)&nbsp;
-![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-0D1117?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF)&nbsp;
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-0D1117?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)&nbsp;
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)&nbsp;
-![Lightroom](https://img.shields.io/badge/Adobe_Lightroom-0D1117?style=for-the-badge&logo=adobe-lightroom&logoColor=31A8FF)&nbsp;
-
-##
+## 📊 Visitor Count
 
 <div align="center">
-  <br>
-    <p align="center">
-      <b>Visitors Count</b>
+  <img src="https://profile-counter.glitch.me/{cfilipecruz}/count.svg" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
