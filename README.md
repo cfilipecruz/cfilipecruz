@@ -8,7 +8,10 @@
   </a>
 </p>
 
-<!-- Languages & Technologies -->
+## 🚀 About Me
+
+Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in Computer Graphics and Multimedia Engineering. I thrive on solving problems creatively and continuously seek opportunities for growth.
+
 ## 💻 Languages & Technologies
 
 <p align="center">
@@ -37,17 +40,27 @@
   <img src="https://img.shields.io/badge/Yii-2C3E50?style=flat-square&logo=yiiframework&logoColor=white" alt="Yii"/>
 </p>
 
-<div align="center">
-  <a href="https://github.com/cfilipecruz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=algolia&hide_border=true&title_color=00A1FF"/>
-  </a>
-</div>
+## 🛠️ Tools I Use
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/> 
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/> 
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/> 
+  <img src="https://img.shields.io/badge/XAMPP-F37623.svg?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> 
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/> 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/> 
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/> 
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> 
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery"/> 
+  <img src="https://img.shields.io/badge/Phaser.js-8CC84B?style=flat-square&logo=phaser&logoColor=white" alt="Phaser.js"/> 
+  <img src="https://img.shields.io/badge/PostGIS-008bb9?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS"/> 
+  <img src="https://img.shields.io/badge/Yii-2C3E50?style=flat-square&logo=yiiframework&logoColor=white" alt="Yii"/>
+</p>
 
-Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in Computer Graphics and Multimedia Engineering. I thrive on solving problems creatively and continuously seek opportunities for growth.
-
-### 🌐 Socials
+## 🌐 Socials
 
 <p align="center">
   <a href="https://discord.com/users/maneneco" target="_blank">
@@ -70,25 +83,11 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
   </a>
 </p>
 
-## 🛠️ Tools I Use
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/> 
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/> 
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"/> 
-  <img src="https://img.shields.io/badge/XAMPP-F37623.svg?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> 
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/> 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/> 
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/> 
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/> 
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> 
-  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery"/> 
-  <img src="https://img.shields.io/badge/Phaser.js-8CC84B?style=flat-square&logo=phaser&logoColor=white" alt="Phaser.js"/> 
-  <img src="https://img.shields.io/badge/PostGIS-008bb9?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS"/> 
-  <img src="https://img.shields.io/badge/Yii-2C3E50?style=flat-square&logo=yiiframework&logoColor=white" alt="Yii"/>
-</p>
+<div align="center">
+  <a href="https://github.com/cfilipecruz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=algolia&hide_border=true&title_color=00A1FF"/>
+  </a>
+</div>
 
 ## 😂 Developer Jokes
 
