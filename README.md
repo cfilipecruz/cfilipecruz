@@ -1,12 +1,26 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
+<!-- Header with Updated Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00f2ea&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00f2ea&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!"/>
+  </a>
+</p>
 
+<!-- GitHub Stats -->
+## 🏆 GitHub Stats
+
+<!-- Updated GitHub Stats Layout -->
 <div align="center">
   <a href="https://github.com/cfilipecruz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=cfilipecruz&show_icons=true&theme=algolia&hide_border=true"/>
   </a>
 </div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+
 
 ## 🚀 About Me
 
