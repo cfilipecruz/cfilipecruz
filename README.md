@@ -1,5 +1,5 @@
 <!-- Header with Custom Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00A1FF&height=150&section=header&text=Filipe%20Cruz&fontColor=FFFFFF&fontSize=50&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00A1FF&height=150&section=header&fontColor=FFFFFF&fontSize=50&fontAlignY=35"/>
 
 <!-- Typing Animation with Consistent Colors -->
 <p align="center">
@@ -10,26 +10,46 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://discord.com/users/Maneneco" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /> 
+  <a underline="none" href="https://discord.com/users/Maneneco" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="30" /> 
+    </picture> 
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/FilipeCruz6832" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" />  
+    <picture> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="30" height="30" />
+     </picture> 
   </a>
-  <a href="http://www.instagram.com/Filipe__Cruz_" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" />  
+  &nbsp;
+  <a href="http://www.instagram.com/Filipe__Cruz_" target="_blank" rel="noreferrer">
+    <picture> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" />
+     </picture> 
   </a>
-  <a href="https://myskillhub.pt" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Globe.svg" width="40" height="40" alt="Website"/>
+  &nbsp;
+<a href="https://myskillhub.pt" target="_blank" rel="noreferrer">
+  <picture> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="30" height="30" />
+  </picture> 
+</a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/16282563/filipe-cruz" target="_blank" rel="noreferrer">
+     <picture> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="30" height="30" />
+     </picture> 
   </a>
-  <a href="https://stackoverflow.com/users/16282563/filipe-cruz" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="40" height="40" /> 
+  &nbsp;
+  <a href="https://www.youtube.com/@filipecruz8035" target="_blank" rel="noreferrer">
+    <picture> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="30" height="30" />
+    </picture> 
   </a>
-  <a href="https://www.youtube.com/@filipecruz8035" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" />  
-  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/cfilipecruz" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
+    <picture> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30"/>
+    </picture> 
   </a>
 </p>
 
