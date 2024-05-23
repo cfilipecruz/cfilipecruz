@@ -11,22 +11,22 @@
 <!-- Social Icons -->
 <p align="center">
   <a href="https://discord.com/users/maneneco" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png" alt="Discord"/>
   </a>
   <a href="https://www.facebook.com/FilipeCruz6832" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" alt="Facebook"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png" alt="Facebook"/>
   </a>
   <a href="http://www.instagram.com/filipe__cruz_" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://myskillhub.pt" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png" alt="Website"/>
   </a>
   <a href="https://www.stackoverflow.com/users/16282563/filipe-cruz" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/stack-overflow.png" alt="StackOverflow"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/stack-overflow.png" alt="StackOverflow"/>
   </a>
   <a href="https://www.youtube.com/@filipecruz8035" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/youtube-play.png" alt="YouTube"/>
   </a>
 </p>
 
@@ -91,6 +91,25 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 <div align="center">
   <a href="https://github.com/cfilipecruz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=algolia&hide_border=true&title_color=00A1FF"/>
+  </a>
+</div>
+
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11156513067&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11156513067&cover_image=true&theme=novatorem&show_offline=false&background_color=df3434&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=cfilipecruz&show_icons=true&theme=algolia&hide_border=true&title_color=00A1FF" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfilipecruz&layout=compact&theme=algolia&hide_border=true&title_color=00A1FF" alt="Top Languages"/>
   </a>
 </div>
 
