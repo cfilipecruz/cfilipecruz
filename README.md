@@ -41,7 +41,7 @@
 
 ### 🚀 About Me
 
-Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in Computer Graphics and Multimedia Engineering. I thrive on solving problems creatively and continuously seek opportunities for growth.
+I'm all about learning and growing, always looking for new challenges. Honest, creative, and sometimes a bit odd, I find weird solutions to tricky problems. I love working with teams but also enjoy my alone time.
 
 ---
 
