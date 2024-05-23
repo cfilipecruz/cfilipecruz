@@ -37,11 +37,15 @@
   </a>
 </div>
 
-## 🚀 About Me
+---
+
+### 🚀 About Me
 
 Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in Computer Graphics and Multimedia Engineering. I thrive on solving problems creatively and continuously seek opportunities for growth.
 
-## 💻 What I Do
+---
+
+### 💻 What I Do
 
 <details>
   <summary>Expand</summary>
@@ -112,7 +116,9 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
   </p>
 </details>
 
-## 🌟 Fun Facts
+---
+
+### 🌟 Fun Facts
 
 <details>
   <summary>Expand</summary>
@@ -126,50 +132,69 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
   </p>
 </details>
 
-## 😂 Developer Jokes
-<details>
-  <summary>Expand</summary>
-    - Why do programmers prefer dark mode? Because light attracts bugs! 🐛 <br>
-    - Why do Java developers wear glasses? Because they don’t see sharp. 👓 <br>
-    - Debugging: Being the detective in a crime movie where you are also the murderer. 🔍 <br>
-</details>
+---
 
-## 🎮 Hobbies
+### 😂 Developer Jokes
 
 <details>
   <summary>Expand</summary>
-    - Science and Technology <br>
-    - Entrepreneurship <br>
-    - Self Improvement <br>
-    - Gym <br>
-    - Investment <br>
-    - Video Games and Sound <br>
-    - Volunteer <br>
+  
+  - Why do programmers prefer dark mode? Because light attracts bugs! 🐛 <br>
+  - Why do Java developers wear glasses? Because they don’t see sharp. 👓 <br>
+  - Debugging: Being the detective in a crime movie where you are also the murderer. 🔍 <br>
+    
 </details>
 
-## 💪 Soft Skills
+---
+
+### 🎮 Hobbies
 
 <details>
   <summary>Expand</summary>
-    - Adaptability <br>
-    - Conflict resolution <br>
-    - Creativity <br>
-    - Critical thinking <br>
-    - Curiosity <br>
-    - Empathy <br>
-    - Initiative <br>
-    - Integrity <br>
-    - Open-mindedness <br>
-    - Positivity <br>
-    - Problem-solving <br>
-    - Project management <br>
-    - Resilience <br>
-    - Teamwork <br>
-    - Transparency <br>
-    - Honesty <br>
+  
+  - Science and Technology <br>
+  - Entrepreneurship <br>
+  - Self Improvement <br>
+  - Gym <br>
+  - Investment <br>
+  - Video Games and Sound <br>
+  - Volunteer <br>
+  
 </details>
 
-## 📊 Visitor Count
+---
+
+### 💪 Soft Skills
+
+<details>
+  <summary>Expand</summary>
+  
+  - Adaptability <br>
+  - Conflict resolution <br>
+  - Creativity <br>
+  - Critical thinking <br>
+  - Curiosity <br>
+  - Empathy <br>
+  - Initiative <br>
+  - Integrity <br>
+  - Open-mindedness <br>
+  - Positivity <br>
+  - Problem-solving <br>
+  - Project management <br>
+  - Resilience <br>
+  - Teamwork <br>
+  - Transparency <br>
+  - Honesty <br>
+    
+</details>
+
+---
+
+ <a href="https://www.buymeacoffee.com/filipecruz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+
+---
+
+### 📊 Visitor Count
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/{cfilipecruz}/count.svg" style="border-radius: 5px;"/>
