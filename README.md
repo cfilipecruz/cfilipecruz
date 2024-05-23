@@ -10,23 +10,26 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://discord.com/users/maneneco" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="40" height="40" alt="Discord"/>
+  <a href="https://discord.com/users/Maneneco" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /> 
   </a>
-  <a href="https://www.facebook.com/FilipeCruz6832" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Facebook.svg" width="40" height="40" alt="Facebook"/>
+  <a href="https://www.facebook.com/FilipeCruz6832" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" />  
   </a>
-  <a href="http://www.instagram.com/filipe__cruz_" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="40" height="40" alt="Instagram"/>
+  <a href="http://www.instagram.com/Filipe__Cruz_" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" />  
   </a>
   <a href="https://myskillhub.pt" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Globe.svg" width="40" height="40" alt="Website"/>
   </a>
-  <a href="https://stackoverflow.com/users/16282563/filipe-cruz" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/stackoverflow.svg" width="40" height="40" alt="Stack Overflow"/>
+  <a href="https://stackoverflow.com/users/16282563/filipe-cruz" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="40" height="40" /> 
   </a>
-  <a href="https://www.youtube.com/@filipecruz8035" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/youTube.svg" width="40" height="40" alt="YouTube"/>
+  <a href="https://www.youtube.com/@filipecruz8035" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" />  
+  </a>
+  <a href="https://www.linkedin.com/in/cfilipecruz" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
   </a>
 </p>
 
