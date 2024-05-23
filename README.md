@@ -217,14 +217,10 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 
 ---
 
-### 📊 Visitor Count
-
+<!-- Visitor Counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{cfilipecruz}/count.svg" style="border-radius: 5px;"/>
+  <img src="https://views-counter.vercel.app/badge?pageId=cfilipecruz%2FViews-Counter&leftColor=0078D7&rightColor=00A1FF&label=Visitors&style=flat" alt="Views Counter"/>
 </div>
 
 <!-- Footer with Custom Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00A1FF&height=120&section=footer"/>
-
-<!-- Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
