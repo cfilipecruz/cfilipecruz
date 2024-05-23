@@ -36,13 +36,26 @@ Hey, I'm Filipe Cruz from Portugal! 🌍 A passionate developer with a degree in
 
 ## 💻 What I Do
 
-- **Front-End Development**: HTML5, CSS3, JavaScript, Angular, Ionic, Bootstrap
-- **Back-End Development**: PHP, Java, Node.js, .NET, Laravel, Yii
-- **Database Management**: MySQL, PostgreSQL, PostGIS
-- **Mobile Development**: Kotlin, Java (Android)
-- **Game Development**: Phaser.js, Unity, Unreal Engine
-- **Other Technologies**: Python, Linux, UML, JSON, P5.js, Assembly
-- **3D & Animation**: Blender, Maya, 3D Animation, 3D Modeling
+### Front-End Development
+- HTML5, CSS3, JavaScript, Angular, Ionic, Bootstrap
+
+### Back-End Development
+- PHP, Java, Node.js, .NET, Laravel, Yii
+
+### Database Management
+- MySQL, PostgreSQL, PostGIS
+
+### Mobile Development
+- Kotlin, Java (Android)
+
+### Game Development
+- Phaser.js, Unity, Unreal Engine
+
+### Other Technologies
+- Python, Linux, UML, JSON, P5.js, Assembly
+
+### 3D & Animation
+- Blender, Maya, 3D Animation, 3D Modeling
 
 ## 🛠️ Tools I Use
 
