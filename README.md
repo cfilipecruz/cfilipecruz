@@ -193,10 +193,8 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
   - Open-mindedness <br>
   - Positivity <br>
   - Problem-solving <br>
-  - Project management <br>
   - Resilience <br>
   - Teamwork <br>
-  - Transparency <br>
   - Honesty <br>
     
 </details>
