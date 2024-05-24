@@ -68,7 +68,7 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 
 ---
 
-### 💻 What I worked with
+### 💻 What I worked with before
 
 <details>
   <summary>Expand</summary>
@@ -144,31 +144,21 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 
 ---
 
-### 🌟 Fun Facts
-
-<details>
-  <summary>Expand</summary>
-- 🛠️ I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course. <br>
-- 🐛 My team and I once created a cricket energy bar. Yes, the kind with actual crickets. <br>
-- 🎧 Currently listening on spotify: <br>
-  <p>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=53b14f&bar_color_cover=true">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=00A1FF&bar_color_cover=true" alt="Spotify Now     Playing"/>
-    </a>
-  </p>
-</details>
-
----
-
-### 😂 Developer Jokes
+### 🌐 Language Skills
 
 <details>
   <summary>Expand</summary>
   
-  - Why do programmers prefer dark mode? Because light attracts bugs! 🐛 <br>
-  - Why do Java developers wear glasses? Because they don’t see sharp. 👓 <br>
-  - Debugging: Being the detective in a crime movie where you are also the murderer. 🔍 <br>
-    
+### 🌐 Language Skills
+
+- **Portuguese** [🇵🇹](https://en.wikipedia.org/wiki/Portuguese_language) C2
+  - Fluent - Can debate philosophy while making pastéis de nata!
+- **English** [🇬🇧](https://en.wikipedia.org/wiki/English_language) C1
+  - Advanced - Can survive a British tea party and understand most British humor.
+- **Spanish** [🇪🇸](https://en.wikipedia.org/wiki/Spanish_language) B2
+  - Intermediate - Can order tapas and join in a fiesta with confidence!
+
+
 </details>
 
 ---
@@ -215,6 +205,38 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 </details>
 
 ---
+
+### 🌟 Fun Facts
+
+<details>
+  <summary>Expand</summary>
+  
+- 🛠️ I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course. <br>
+- 🐛 My team and I once created a cricket energy bar. Yes, the kind with actual crickets. <br>
+- 🎧 Currently listening on spotify: <br>
+  <p>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=53b14f&bar_color_cover=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=00A1FF&bar_color_cover=true" alt="Spotify Now     Playing"/>
+    </a>
+  </p>
+</details>
+
+---
+
+### 😂 Developer Jokes
+
+<details>
+  <summary>Expand</summary>
+  
+  - Why do programmers prefer dark mode? Because light attracts bugs! 🐛 <br>
+  - Why do Java developers wear glasses? Because they don’t see sharp. 👓 <br>
+  - Debugging: Being the detective in a crime movie where you are also the murderer. 🔍 <br>
+    
+</details>
+
+---
+
+
 
  <a href="https://www.buymeacoffee.com/filipecruz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
