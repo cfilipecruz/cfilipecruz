@@ -10,10 +10,28 @@
 
 <!-- Social Icons -->
 <p align="center">
+    <a href="https://www.linkedin.com/in/cfilipecruz" target="_blank" rel="noreferrer">
+    <picture> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30"/>
+    </picture> 
+  </a>
+  &nbsp;
+  <a href="https://myskillhub.pt" target="_blank" rel="noreferrer">
+  <picture> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="30" height="30" />
+  </picture> 
+</a>
+  &nbsp;
   <a underline="none" href="https://discord.com/users/Maneneco" target="_blank" rel="noreferrer"> 
     <picture> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="30" /> 
     </picture> 
+  </a>
+  &nbsp;
+    <a href="http://www.instagram.com/Filipe__Cruz_" target="_blank" rel="noreferrer">
+    <picture> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" />
+     </picture> 
   </a>
   &nbsp;
   <a href="https://www.facebook.com/FilipeCruz6832" target="_blank" rel="noreferrer">
@@ -21,18 +39,6 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="30" height="30" />
      </picture> 
   </a>
-  &nbsp;
-  <a href="http://www.instagram.com/Filipe__Cruz_" target="_blank" rel="noreferrer">
-    <picture> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" />
-     </picture> 
-  </a>
-  &nbsp;
-<a href="https://myskillhub.pt" target="_blank" rel="noreferrer">
-  <picture> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="30" height="30" />
-  </picture> 
-</a>
   &nbsp;
   <a href="https://stackoverflow.com/users/16282563/filipe-cruz" target="_blank" rel="noreferrer">
      <picture> 
@@ -43,12 +49,6 @@
   <a href="https://www.youtube.com/@filipecruz8035" target="_blank" rel="noreferrer">
     <picture> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="30" height="30" />
-    </picture> 
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/cfilipecruz" target="_blank" rel="noreferrer">
-    <picture> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30"/>
     </picture> 
   </a>
 </p>
@@ -148,16 +148,13 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 
 <details>
   <summary>Expand</summary>
-  
-### 🌐 Language Skills
 
-- **Portuguese** [🇵🇹](https://en.wikipedia.org/wiki/Portuguese_language) C2
-  - Fluent - Can debate philosophy while making pastéis de nata!
-- **English** [🇬🇧](https://en.wikipedia.org/wiki/English_language) C1
-  - Advanced - Can survive a British tea party and understand most British humor.
-- **Spanish** [🇪🇸](https://en.wikipedia.org/wiki/Spanish_language) B2
-  - Intermediate - Can order tapas and join in a fiesta with confidence!
-
+  - <img src="https://flagsapi.com/PT/shiny/32.png" width="20"/> **Portuguese** (C2)
+    <br>  &nbsp;  &nbsp;  &nbsp;Fluent - Can debate philosophy while making pastéis de nata!
+  - <img src="https://flagsapi.com/GB/shiny/32.png" width="20"/> **English** (C1)
+    <br>  &nbsp;  &nbsp;  &nbsp;Advanced - Can survive a British tea party and understand most British humor.
+  - <img src="https://flagsapi.com/ES/shiny/32.png" width="20"/> **Spanish** (B2)
+    <br>  &nbsp;  &nbsp;  &nbsp;Intermediate - Can order tapas and join in a fiesta with confidence!
 
 </details>
 
@@ -168,12 +165,12 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 <details>
   <summary>Expand</summary>
   
-  - Science and Technology <br>
+  - Science and Tecnology <br>
   - Entrepreneurship <br>
-  - Self Improvement <br>
   - Gym <br>
-  - Investment <br>
-  - Video Games and Sound <br>
+  - Software Developing <br>
+  - Sound Aplicactions <br>
+  - Anime and Video Games <br>
   - Volunteer <br>
   
 </details>
@@ -216,7 +213,7 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 - 🎧 Currently listening on spotify: <br>
   <p>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=53b14f&bar_color_cover=true">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=00A1FF&bar_color_cover=true" alt="Spotify Now     Playing"/>
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=00A1FF&bar_color_cover=true" alt="Spotify Now Playing"/>
     </a>
   </p>
 </details>
