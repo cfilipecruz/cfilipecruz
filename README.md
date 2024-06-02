@@ -68,7 +68,7 @@ I'm all about learning and growing, always looking for new challenges. Honest, c
 
 ---
 
-### 💻 Skills or tools I used before
+### 💻 Skills or Tools I used before
 
 <details>
   <summary>Expand</summary>
