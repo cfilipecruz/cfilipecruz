@@ -222,11 +222,6 @@ Currently Learning
 - 🛠️ I built an intelligent greenhouse for my final project in my Electronics and Computer Systems course. <br>
 - 🐛 My team and I once created a cricket energy bar. Yes, the kind with actual crickets. <br>
 - 🎧 Currently listening on spotify: <br>
-  <p>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=53b14f&bar_color_cover=true">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=11156513067&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00A1FF&interchange=false&bar_color=00A1FF&bar_color_cover=true" alt="Spotify Now Playing"/>
-    </a>
-  </p>
 </details>
 
 ---
