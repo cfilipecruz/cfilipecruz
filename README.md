@@ -4,7 +4,7 @@
 <!-- Typing Animation with Consistent Colors -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00A1FF&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Filipe+Cruz;Welcome+to+my+coding+corner;Grab+a+coffee+and+explore+my+projects!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00A1FF&center=true&vCenter=true&width=1000&lines=Hello+World!+I'm+Filipe+Cruz;Welcome+to+my+gitHub+;Grab+a+coffee+and+explore+my+weird+projects!"/>
   </a>
 </p>
 
